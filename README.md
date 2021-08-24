@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @Mr-ari-11
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python and MySQL
+-Hi, I’m @Mr-ari-11
+- I’m interested in Data Science
+- I’m currently learning Python and MySQL
