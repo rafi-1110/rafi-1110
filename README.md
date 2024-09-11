@@ -1,3 +1,3 @@
--Hi, I’m @Mr-ari-11
+-Hi, I’m Rafi
 - I’m currently learning Python and MySQL
 - Recently joined Github and excited to share more projects soon
