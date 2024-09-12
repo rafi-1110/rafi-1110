@@ -1,13 +1,16 @@
 <h1>Hi, I'm Rafiul! <br/><a href="https://github.com/rafi-1110">Data Analyst</a>, <a href="https://www.linkedin.com/in/rafiul-islam-5ba7b6155">Financial Analyst</a>, <a href="https://github.com/rafi-1110/exotic-options-pricing">Aspiring Quant</a></h1>
 
+I am a Mathematics, Statistics, and Financial Economics graduate based in London. My passion lies in harnessing data by combining statistics and programming languages to draw meaningful insights. I look forward to using this space to share my projects related to price prediction, data analysis, health & sports data, data visualisation and more.
+
+---
 
 <h2>📈 Data Analytics and Financial Projects:</h2>
 
 - <b>Coffee Price Prediction (Python, Pandas, Exponential Smoothing, SARIMA, Random Forest, Support Vector Regression)</b> ☕
   - [Coffee Price Prediction: Statistical Models VS Machine Learning Models](https://github.com/[your-username]/coffee-price-prediction)
-- <b>Stock Data Analysis (Python, Pandas, Matplotlib, Regression)</b> 📊
+- <b>Stock Data Analysis (Python, Pandas, Matplotlib, Regression, Finance)</b> 📊
   - [Exploring and Visualizing Stock Market Trends](https://github.com/[your-username]/stock-data-analysis)
-- <b>Exotic Options Pricing (Python)</b> 💹
+- <b>Exotic Options Pricing (Python, Pandas, Numpy, MatplotLib)</b> 💹
   - [Asian and Supershare Options Pricing](https://github.com/rafi-1110/exotic-options-pricing)
 - <b>QConsult Project - Impact of Transport on the Local Economy</b> 📋
   - [Analyzed car park usage to recommend solutions for local business and community improvement: Data Collection and Analysis](https://github.com/rafi-1110/qconsult-project-report)
