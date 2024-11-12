@@ -10,10 +10,10 @@ With experience in finance, consulting, student representation, and teaching, I 
 
 - <b>Coffee Price Prediction (Python, Pandas, Exponential Smoothing, SARIMA, Random Forest, Support Vector Regression)</b> ☕
   - [Coffee Price Prediction: Statistical Models VS Machine Learning Models](https://github.com/[your-username]/coffee-price-prediction)
+- <b>Exotic Options Pricing (Python, Pandas, Numpy, MatplotLib)</b> 💹
+  - [Asian and Supershare Options Pricing](https://github.com/rafi-1110/Exotic-Option-Pricing)  
 - <b>Stock Data Analysis (Python, Pandas, Matplotlib, Regression, Finance)</b> 📊
   - [Exploring and Visualizing Stock Market Trends](https://github.com/[your-username]/stock-data-analysis)
-- <b>Exotic Options Pricing (Python, Pandas, Numpy, MatplotLib)</b> 💹
-  - [Asian and Supershare Options Pricing](https://github.com/rafi-1110/Exotic-Option-Pricing)
 - <b>QConsult Project - Impact of Transport on the Local Economy</b> 📋
   - [Analysed car park usage to recommend solutions for local business and community improvement](https://github.com/rafi-1110/Qconsult-Project)
 
