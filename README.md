@@ -9,7 +9,7 @@ With experience in finance, consulting, student representation, and teaching, I 
 <h2>📈 Data Analytics and Financial Projects:</h2>
 
 - <b>Coffee Price Prediction (Python, Pandas, Exponential Smoothing, SARIMA, Random Forest, Support Vector Regression)</b> ☕
-  - [Coffee Price Prediction: Statistical Models VS Machine Learning Models](https://github.com/[your-username]/coffee-price-prediction)
+  - [Coffee Price Prediction: Statistical Models VS Machine Learning Models](https://github.com/rafi-1110/Coffee-Price-Prediction)
 - <b>Exotic Options Pricing (Python, Pandas, Numpy, MatplotLib)</b> 💹
   - [Asian and Supershare Options Pricing](https://github.com/rafi-1110/Exotic-Option-Pricing)  
 - <b>Stock Data Analysis (Python, Pandas, Matplotlib, Regression, Finance)</b> 📊
