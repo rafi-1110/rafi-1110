@@ -15,7 +15,7 @@ With experience in finance, consulting, student representation, and teaching, I 
 - <b>Exotic Options Pricing (Python, Pandas, Numpy, MatplotLib)</b> 💹
   - [Asian and Supershare Options Pricing](https://github.com/rafi-1110/exotic-options-pricing)
 - <b>QConsult Project - Impact of Transport on the Local Economy</b> 📋
-  - [Analyzed car park usage to recommend solutions for local business and community improvement: Data Collection and Analysis](https://github.com/rafi-1110/qconsult-project-report)
+  - [Analysed car park usage to recommend solutions for local business and community improvement](https://github.com/rafi-1110/Qconsult-Project)
 
 
 <h2>🛠️ Upcoming Projects:</h2>
