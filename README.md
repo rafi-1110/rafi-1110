@@ -1,4 +1,4 @@
-<h1>Hi, I'm Rafiul! <br/><a href="https://github.com/rafi-1110">Data Analyst</a>, <a href="https://www.linkedin.com/in/rafiul-islam-5ba7b6155">Financial Analyst</a>, <a href="https://github.com/rafi-1110/exotic-options-pricing">Aspiring Quant</a></h1>
+<h1>Hi, I'm Rafi! <br/><a href="https://github.com/rafi-1110">Data Analyst</a>, <a href="https://www.linkedin.com/in/rafiul-islam-5ba7b6155">Financial Analyst</a>, <a href="https://github.com/rafi-1110/exotic-options-pricing">Aspiring Quant</a></h1>
 
 I am a Mathematics, Statistics, and Financial Economics graduate based in London. My passion lies in harnessing data by combining statistics and programming languages to draw meaningful insights. I look forward to using this space to share my projects related to price prediction, data analysis, health & sports data, data visualisation and more.
 
