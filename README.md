@@ -1,7 +1,7 @@
 <h1>Hi, I'm Rafi! 👋</h1>
 <h3><a href="https://github.com/rafi-1110/Stock_Price_Analysis">Data Analyst</a> · <a href="https://github.com/rafi-1110/Coffee-Price-Prediction">Data Scientist</a> · <a href="https://github.com/rafi-1110/Exotic-Option-Pricing">Quant / Risk Analyst</a></h3>
 
-I hold a **BSc in Mathematics, Statistics & Financial Economics** and an **MSc in Computational Finance**, and I'm based in London. I turn data into decisions — combining statistics, programming and financial modelling to build things that answer a real question, not just produce a chart.
+I hold a **BSc in Mathematics, Statistics & Financial Economics** and an **MSc in Computational Finance**, and I'm based in London. I turn data into decisions by combining statistics, programming and financial modelling to build things that answer a real question, not just produce a chart.
 
 I'm currently focused on roles in data analytics, data science and quantitative/risk analysis. Alongside my quantitative background, experience in finance, consulting and teaching means I can also do the part that matters most: explain a complex result clearly to someone who needs to act on it.
 
