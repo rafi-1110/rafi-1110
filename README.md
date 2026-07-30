@@ -11,7 +11,7 @@ I'm currently focused on roles in data analytics, data science and quantitative/
 
 <h2>📈 Data Analytics and Financial Projects:</h2>
 
-- <b>Coffee Price Prediction (Python, Pandas, Exponential Smoothing, SARIMA, Random Forest, Support Vector Regression)</b> ☕
+- <b>Coffee Price Prediction (Python, Pandas, Exponential Smoothing, SARIMA, Random Forest, SVR)</b> ☕
   - [Coffee Price Prediction: Statistical Models VS Machine Learning Models](https://github.com/rafi-1110/Coffee-Price-Prediction)
 - <b>Exotic Options Pricing (Python, Pandas, Numpy, MatplotLib)</b> 💹
   - [Asian and Supershare Options Pricing](https://github.com/rafi-1110/Exotic-Option-Pricing)  
