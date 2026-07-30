@@ -22,11 +22,10 @@ I'm currently focused on roles in data analytics, data science and quantitative/
 
 
 <h2>🛠️ Upcoming Projects:</h2>
-
-- <b>Fitness App (Python)</b> 🏋️‍♂️
-  - Calorie Calculation Application for Fitness Tracking
-- <b>SQL Portfolio</b> 📋
-  - Compilation of Business and Financial Analysis SQL Queries
+- <b>Live Portfolio Risk Dashboard (Python, APIs, VaR, Monte Carlo)</b> 📊
+  - Risk analytics dashboard pulling live market data via API — volatility, Sharpe ratio, correlation matrix, and Value at Risk (historical, parametric, Monte Carlo)
+- <b>State of the UK Economy (SQL, Power BI, Time Series)</b> 🇬🇧
+  - Inflation, GDP, wages, unemployment and interest rates (2010–2025) using ONS and Bank of England data
 - <b>Dissertation Extension: Coffee Price Prediction</b> ☕
   - Enhancing the existing project with SARIMAX and exogenous variables for better accuracy
 
