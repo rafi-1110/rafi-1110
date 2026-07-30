@@ -22,6 +22,7 @@ I'm currently focused on roles in data analytics, data science and quantitative/
 
 
 <h2>🛠️ Upcoming Projects:</h2>
+
 - <b>Live Portfolio Risk Dashboard (Python, APIs, VaR, Monte Carlo)</b> 📊
   - Risk analytics dashboard pulling live market data via API — volatility, Sharpe ratio, correlation matrix, and Value at Risk (historical, parametric, Monte Carlo)
 - <b>State of the UK Economy (SQL, Power BI, Time Series)</b> 🇬🇧
