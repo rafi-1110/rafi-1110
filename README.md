@@ -26,7 +26,7 @@ I'm currently focused on roles in data analytics, data science and quantitative/
 - <b>Live Portfolio Risk Dashboard (Python, APIs, VaR, Monte Carlo)</b> 📊
   - [Live market data via API — volatility, Sharpe ratio, correlation, and VaR (3 methods)]
 - <b>State of the UK Economy (SQL, Power BI, Time Series)</b> 🏦
-  - UK inflation, GDP, wages, unemployment & rates (2010–2025) — ONS + Bank of England data
+  - UK inflation, GDP, wages, unemployment & rates — ONS + Bank of England data
 - <b>Dissertation Extension: Coffee Price Prediction</b> ☕
   - SARIMAX + exogenous variables for better accuracy
 
