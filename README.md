@@ -23,7 +23,7 @@ I'm currently focused on roles in data analytics, data science and quantitative/
 
 <h2>🛠️ Upcoming Projects:</h2>
 
-- <b>State of the UK Economy (SQL, Power BI, Time Series)</b> 🏦
+- <b>State of the UK Economy (SQL, Power BI, Time Series)[Work In Progress]</b> 🏦
   - UK inflation, GDP, wages, unemployment & rates - ONS + Bank of England data
 - <b>Live Portfolio Risk Dashboard (Python, APIs, VaR, Monte Carlo)</b> 📊
   - [Live market data via API - volatility, Sharpe ratio, correlation, and VaR (3 methods)]
